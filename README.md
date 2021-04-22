@@ -24,4 +24,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 #### Specific Event Page
 ![Specific Event](./readme_images/specific_event.png)
 #### Custom Error 404 Page
-![ERROR 404](./readme_images/error_404.png)
+![ERROR 404](./readme_images/error404.png)
