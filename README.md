@@ -17,11 +17,11 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![Home Page](./images_for_readme/landing.png)
+![Home Page](./readme_images/landing.png)
 
 #### All Events Page
-![All Events](./images_for_readme/all_events.png)
+![All Events](./readme_images/all_events.png)
 #### Specific Event Page
-![Specific Event](./images_for_readme/specific_event.png)
+![Specific Event](./readme_images/specific_event.png)
 #### Custom Error 404 Page
-![ERROR 404](./images_for_readme/error_404.png)
+![ERROR 404](./readme_images/error_404.png)
