@@ -1,5 +1,5 @@
 import { Navbar, Nav, Form, FormControl, Button } from 'react-bootstrap'
-import Link from 'next/link'
+import Search from './Search'
 
 export default function Header() {
     return (
@@ -11,10 +11,7 @@ export default function Header() {
                 <Nav.Link href="/about">About Us</Nav.Link>
                 {/* <Nav.Link href="#pricing">Pricing</Nav.Link> */}
                 </Nav>
-                <Form inline>
-                <FormControl type="text" placeholder="Search" className="mr-sm-2" />
-                <Button variant="outline-info">Search</Button>
-                </Form>
+                <Search />
             </Navbar>
         </header >
     )
