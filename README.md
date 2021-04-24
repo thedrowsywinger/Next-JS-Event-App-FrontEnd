@@ -46,6 +46,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![React Toastify](./readme_images/toast.png)
 
 #### Using React Toastify
-This is all connect to a headless CMS, [Strapi](https://strapi.io/)
+This is all connected to a headless CMS, [Strapi](https://strapi.io/)
 
 ![React Toastify](./readme_images/strapi.png)
+
+#### Edit Event
+![Edit Event](./readme_images/edit_event.png)
+
+#### Image Uploading Modal
+![Modal](./readme_images/modal.png)
