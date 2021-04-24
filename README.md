@@ -37,4 +37,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![ERROR 404](./readme_images/error404.png)
 
 #### Search Filter
-![ERROR 404](./readme_images/search_result.png)
+![Search Filter](./readme_images/search_result.png)
+
+#### Add New Event
+![Add New Event](./readme_images/add_event.png)
+
+#### Using React Toastify
+![React Toastify](./readme_images/toast.png)
+
+#### Using React Toastify
+This is all connect to a headless CMS, [Strapi](https://strapi.io/)
+
+![React Toastify](./readme_images/strapi.png)
